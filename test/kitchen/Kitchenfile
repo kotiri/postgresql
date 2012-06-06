@@ -1,0 +1,4 @@
+cookbook "postgresql" do
+  configuration "client"
+  configuration "server"
+end
